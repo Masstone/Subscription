@@ -21,26 +21,20 @@
 			<outline htmlUrl="http://www.idownloadblog.com" title="iDownloadBlog.com" xmlUrl="http://www.idownloadblog.com/feed/" type="rss" text="iDownloadBlog.com"/>
 			<outline title="iMore - The #1 iPhone, iPad, and iPod touch blog" xmlUrl="https://www.imore.com/rss.xml" type="rss" text="iMore - The #1 iPhone, iPad, and iPod touch blog"/>
 			<outline htmlUrl="http://www.148apps.com" title="Latest iPhone and iPad App Price Drops (RSS Feed) | 148Apps" xmlUrl="http://www.148apps.com/price-drops/feed/" type="rss" text="Latest iPhone and iPad App Price Drops (RSS Feed) | 148Apps"/>
-			<outline title="Lifehacker" xmlUrl="http://feeds.gawker.com/lifehacker/vip" type="rss" text="Lifehacker"/>
 			<outline htmlUrl="https://www.macgamerhq.com" title="Mac Gamer HQ" xmlUrl="https://www.macgamerhq.com/feed/" type="rss" text="Mac Gamer HQ"/>
-			<outline htmlUrl="http://www.mackungfu.org/" title="Mac Kung Fu" xmlUrl="http://www.mackungfu.org/rss/" type="rss" text="Mac Kung Fu"/>
 			<outline htmlUrl="https://www.macrumors.com" title="MacRumors: Mac News and Rumors - iOS Blog" xmlUrl="http://feeds.macrumors.com/MacRumors-iPhone" type="rss" text="MacRumors: Mac News and Rumors - iOS Blog"/>
 			<outline htmlUrl="https://www.macrumors.com" title="MacRumors: Mac News and Rumors - Mac Blog" xmlUrl="http://feeds.macrumors.com/MacRumors-Mac" type="rss" text="MacRumors: Mac News and Rumors - Mac Blog"/>
 			<outline htmlUrl="https://www.macsparky.com/" title="MacSparky" xmlUrl="https://www.macsparky.com/blog?format=RSS" type="rss" text="MacSparky"/>
 			<outline htmlUrl="https://www.macstories.net" title="MacStories" xmlUrl="http://feeds.feedburner.com/macstoriesnet" type="rss" text="MacStories"/>
 			<outline htmlUrl="https://www.macworld.com" title="Macworld" xmlUrl="http://www.macworld.com/index.rss" type="rss" text="Macworld"/>
 			<outline htmlUrl="https://www.waerfa.com" title="Mac玩儿法" xmlUrl="https://www.waerfa.com/feed" type="rss" text="Mac玩儿法"/>
-			<outline htmlUrl="https://marco.org/" title="Marco.org" xmlUrl="http://marco.org/rss" type="rss" text="Marco.org"/>
 			<outline htmlUrl="http://osxdaily.com" title="OS X Daily" xmlUrl="http://feeds.feedburner.com/osxdaily" type="rss" text="OS X Daily"/>
-			<outline title="Product Hunt" xmlUrl="http://www.producthunt.com/feed.atom" type="rss" text="Product Hunt"/>
 			<outline htmlUrl="https://shawnblanc.net" title="Shawn Blanc" xmlUrl="https://shawnblanc.net/feed/" type="rss" text="Shawn Blanc"/>
 			<outline htmlUrl="http://www.tapsmart.com" title="TapSmart" xmlUrl="http://www.tapsmart.com/feed/" type="rss" text="TapSmart"/>
 			<outline htmlUrl="https://toucharcade.com" title="TouchArcade" xmlUrl="https://toucharcade.com/feed/" type="rss" text="TouchArcade"/>
-			<outline title="WatchAware" xmlUrl="https://watchaware.com/feed" type="rss" text="WatchAware"/>
 			<outline title="好奇心日报" xmlUrl="http://www.qdaily.com/feed.xml" type="rss" text="好奇心日报"/>
 			<outline htmlUrl="https://www.appinn.com" title="小众软件" xmlUrl="http://feeds.feedburner.com/appinncom" type="rss" text="小众软件"/>
 			<outline htmlUrl="http://sspai.com" title="少数派" xmlUrl="https://sspai.com/feed" type="rss" text="少数派"/>
-			<outline htmlUrl="https://banlan.show/bitvoice" title="比特新声" xmlUrl="https://banlan.show/bitvoice.rss" type="rss" text="比特新声"/>
 		</outline>
 	</body>
 </opml>
