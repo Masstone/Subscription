@@ -6,6 +6,7 @@
 	<body>
 		<outline text="Apple" title="Apple">
 			<outline htmlUrl="http://www.148apps.com" title="148Apps » iPhone, iPad, Apple Watch and iPod touch App Reviews and News (RSS Feed) | 148Apps" xmlUrl="http://www.148apps.com/feed/" type="rss" text="148Apps » iPhone, iPad, Apple Watch and iPod touch App Reviews and News (RSS Feed) | 148Apps"/>
+			<outline text="512 Pixels" title="512 Pixels" type="rss" xmlUrl="https://512pixels.net/feed/" htmlUrl="http://512pixels.net/"/>
 			<outline htmlUrl="https://9to5mac.com" title="9to5Mac" xmlUrl="https://9to5mac.com/feed/" type="rss" text="9to5Mac"/>
 			<outline htmlUrl="https://appsliced.co/news" title="App Sliced News" xmlUrl="https://appsliced.co/news/feed" type="rss" text="App Sliced News"/>
 			<outline htmlUrl="http://appadvice.com" title="AppAdvice.com Latest" xmlUrl="https://appadvice.com/feed" type="rss" text="AppAdvice.com Latest"/>
