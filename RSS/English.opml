@@ -36,7 +36,6 @@
 			<outline title="Product Hunt" xmlUrl="http://www.producthunt.com/feed.atom" type="rss" text="Product Hunt"/>
 			<outline htmlUrl="https://shawnblanc.net" title="Shawn Blanc" xmlUrl="https://shawnblanc.net/feed/" type="rss" text="Shawn Blanc"/>
 			<outline htmlUrl="http://www.tapsmart.com" title="TapSmart" xmlUrl="http://www.tapsmart.com/feed/" type="rss" text="TapSmart"/>
-			<outline htmlUrl="https://www.theverge.com/" title="The Verge - All Posts" xmlUrl="http://www.theverge.com/rss/full.xml" type="rss" text="The Verge - All Posts"/>
 			<outline htmlUrl="https://toucharcade.com" title="TouchArcade" xmlUrl="https://toucharcade.com/feed/" type="rss" text="TouchArcade"/>
 			<outline title="WatchAware" xmlUrl="https://watchaware.com/feed" type="rss" text="WatchAware"/>
 			<outline title="好奇心日报" xmlUrl="http://www.qdaily.com/feed.xml" type="rss" text="好奇心日报"/>
