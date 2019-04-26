@@ -11,7 +11,6 @@
 			<outline htmlUrl="https://appsliced.co/news" title="App Sliced News" xmlUrl="https://appsliced.co/news/feed" type="rss" text="App Sliced News"/>
 			<outline htmlUrl="http://appadvice.com" title="AppAdvice.com Latest" xmlUrl="https://appadvice.com/feed" type="rss" text="AppAdvice.com Latest"/>
 			<outline title="Apple Newsroom" xmlUrl="https://www.apple.com/newsroom/rss-feed.rss" type="rss" text="Apple Newsroom"/>
-			<outline htmlUrl="https://www.appleworld.today/" title="Apple World Today" xmlUrl="https://www.appleworld.today/blog?format=RSS" type="rss" text="Apple World Today"/>
 			<outline htmlUrl="//appleinsider.com" title="AppleInsider - Frontpage News" xmlUrl="http://appleinsider.com/rss/news/" type="rss" text="AppleInsider - Frontpage News"/>
 			<outline htmlUrl="https://thenextweb.com" title="Apps – The Next Web" xmlUrl="https://thenextweb.com/apps/feed/" type="rss" text="Apps – The Next Web"/>
 			<outline htmlUrl="http://www.appspy.com/rss" title="AppSpy.com | RSS | Latest Entries" xmlUrl="http://www.appspy.com/rss" type="rss" text="AppSpy.com | RSS | Latest Entries"/>
