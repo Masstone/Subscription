@@ -22,7 +22,6 @@
 			<outline htmlUrl="https://daringfireball.net/" title="Daring Fireball" xmlUrl="https://daringfireball.net/feeds/main" type="rss" text="Daring Fireball"/>
 			<outline htmlUrl="http://www.idownloadblog.com" title="iDownloadBlog.com" xmlUrl="http://www.idownloadblog.com/feed/" type="rss" text="iDownloadBlog.com"/>
 			<outline title="iMore - The #1 iPhone, iPad, and iPod touch blog" xmlUrl="https://www.imore.com/rss.xml" type="rss" text="iMore - The #1 iPhone, iPad, and iPod touch blog"/>
-			<outline htmlUrl="https://ioshacker.com" title="iOS Hacker" xmlUrl="https://ioshacker.com/feed" type="rss" text="iOS Hacker"/>
 			<outline htmlUrl="http://www.148apps.com" title="Latest iPhone and iPad App Price Drops (RSS Feed) | 148Apps" xmlUrl="http://www.148apps.com/price-drops/feed/" type="rss" text="Latest iPhone and iPad App Price Drops (RSS Feed) | 148Apps"/>
 			<outline title="Lifehacker" xmlUrl="http://feeds.gawker.com/lifehacker/vip" type="rss" text="Lifehacker"/>
 			<outline htmlUrl="https://www.macgamerhq.com" title="Mac Gamer HQ" xmlUrl="https://www.macgamerhq.com/feed/" type="rss" text="Mac Gamer HQ"/>
