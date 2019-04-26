@@ -16,7 +16,6 @@
 			<outline htmlUrl="http://www.appspy.com/rss" title="AppSpy.com | RSS | Latest Entries" xmlUrl="http://www.appspy.com/rss" type="rss" text="AppSpy.com | RSS | Latest Entries"/>
 			<outline htmlUrl="https://appstories.net" title="AppStories" xmlUrl="https://appstories.net/episodes/feed/" type="rss" text="AppStories"/>
 			<outline htmlUrl="http://checked.fm" title="Checked" xmlUrl="http://checked.fm/feed/podcast" type="rss" text="Checked"/>
-			<outline htmlUrl="https://www.idropnews.com" title="Comments on: iDrop News – Apple News, Mac Rumors and iOS How To" xmlUrl="https://www.idropnews.com/idrop-news-apple-news-mac-rumors-ios/feed/" type="rss" text="Comments on: iDrop News – Apple News, Mac Rumors and iOS How To"/>
 			<outline htmlUrl="https://www.cultofmac.com" title="Cult of Mac" xmlUrl="https://www.cultofmac.com/feed/" type="rss" text="Cult of Mac"/>
 			<outline htmlUrl="https://daringfireball.net/" title="Daring Fireball" xmlUrl="https://daringfireball.net/feeds/main" type="rss" text="Daring Fireball"/>
 			<outline htmlUrl="http://www.idownloadblog.com" title="iDownloadBlog.com" xmlUrl="http://www.idownloadblog.com/feed/" type="rss" text="iDownloadBlog.com"/>
