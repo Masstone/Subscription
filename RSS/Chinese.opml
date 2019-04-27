@@ -8,8 +8,8 @@
 			<outline htmlUrl="https://springcoupon.com" title="Spring Coupon" xmlUrl="https://springcoupon.com/feed/" type="rss" text="Spring Coupon"/>
 			<outline htmlUrl="https://free.com.tw" title="免費資源網路社群" xmlUrl="http://feeds.feedburner.com/freegroup" type="rss" text="免費資源網路社群"/>
 			<outline htmlUrl="http://www.mianfeib.com" title="免费吧-分享互联网-分享精品免费资源" xmlUrl="http://www.mianfeib.com/feed" type="rss" text="免费吧-分享互联网-分享精品免费资源"/>
-			<outline htmlUrl="https://www.52pojie.cn/forum-16-1.html" title="吾爱破解论坛" xmlUrl="http://www.52pojie.cn/forum.php?mod=rss&amp;fid=16&amp;auth=0" type="rss" text="吾爱破解论坛"/>
-			<outline htmlUrl="http://songshuhui.net" title="科学松鼠会" xmlUrl="http://songshuhui.net/feed" type="rss" text="科学松鼠会"/>
+			<outline htmlUrl="https://www.appinn.com" title="小众软件" xmlUrl="http://feed.appinn.com/" type="rss" text="小众软件"/>	
+			<outline htmlUrl="https://www.iplaysoft.com" title="异次元" xmlUrl="http://feed.iplaysoft.com/" type="rss" text="异次元"/>
 			<outline htmlUrl="http://www.playpcesor.com/" title="電腦玩物" xmlUrl="http://feeds.feedburner.com/playpc" type="rss" text="電腦玩物"/>
 		</outline>
 		<outline text="资讯新闻" title="资讯新闻">
@@ -20,14 +20,12 @@
 				<outline htmlUrl="https://buzzorange.com/techorange" title="TechOrange" xmlUrl="http://feeds.feedburner.com/techorange" type="rss" text="TechOrange"/>
 				<outline htmlUrl="http://www.techweb.com.cn/rss/hotnews.xml" title="TechWeb 每日热点" xmlUrl="http://www.techweb.com.cn/rss/hotnews.xml" type="rss" text="TechWeb 每日热点"/>
 				<outline htmlUrl="https://cn.technode.com" title="动点科技" xmlUrl="http://cn.technode.com/feed/" type="rss" text="动点科技"/>
-			<outline htmlUrl="https://www.appinn.com" title="小众软件" xmlUrl="http://feed.appinn.com/" type="rss" text="小众软件"/>	
-			<outline htmlUrl="https://www.iplaysoft.com" title="异次元" xmlUrl="http://feed.iplaysoft.com/" type="rss" text="异次元"/>
-			<outline htmlUrl="https://www.iphonetaiwan.org/" title="愛瘋日報" xmlUrl="http://www.iphonetaiwan.org/feeds/posts/default" type="rss" text="愛瘋日報"/>
 			<outline title="好奇心日报" xmlUrl="http://www.qdaily.com/feed.xml" type="rss" text="好奇心日报"/>
 			<outline htmlUrl="http://www.ixiqi.com" title="爱稀奇" xmlUrl="http://www.ixiqi.com/feed" type="rss" text="爱稀奇"/>
 			<outline htmlUrl="https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=" title="爱范儿" xmlUrl="http://www.ifanr.com/feed" type="rss" text="爱范儿"/>
 			<outline htmlUrl="http://www.tmtpost.com" title="钛媒体：引领未来商业与生活新知" xmlUrl="http://www.tmtpost.com/feed" type="rss" text="钛媒体：引领未来商业与生活新知"/>
 			<outline htmlUrl="https://www.leiphone.com" title="雷锋网" xmlUrl="https://www.leiphone.com/feed/categoryRss/name/sponsor" type="rss" text="雷锋网"/>
+			<outline htmlUrl="http://songshuhui.net" title="科学松鼠会" xmlUrl="http://songshuhui.net/feed" type="rss" text="科学松鼠会"/>
 		</outline>
 	</body>
 </opml>
