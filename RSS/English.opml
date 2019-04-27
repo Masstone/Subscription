@@ -35,6 +35,9 @@
 			<outline htmlUrl="http://www.iLounge.com" title="iLounge" xmlUrl="http://feeds.feedburner.com/ilounge" type="rss" text="iLounge"/>
 			<outline htmlUrl="https://gigaom.com" title="The Apple Blog" xmlUrl="http://theappleblog.com/feed/" type="rss" text="The Apple Blog"/>
 			<outline htmlUrl="https://thenextweb.com" title="The Next Web" xmlUrl="http://feeds2.feedburner.com/thenextweb" type="rss" text="The Next Web"/>
+			<outline htmlUrl="https://applefans.today" title="APPLEFANS 蘋果迷" xmlUrl="https://applefans.today/feed/" type="rss" text="APPLEFANS 蘋果迷"/>
+			<outline htmlUrl="https://www.feng.com/index.shtml" title="威锋网" xmlUrl="https://www.feng.com/rss.xml" type="rss" text="威锋网"/>
+			<outline htmlUrl="https://www.iphonetaiwan.org/" title="愛瘋日報" xmlUrl="http://www.iphonetaiwan.org/feeds/posts/default" type="rss" text="愛瘋日報"/>
 		</outline>
 	</body>
 </opml>
