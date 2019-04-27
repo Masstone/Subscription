@@ -12,19 +12,16 @@
 			<outline htmlUrl="https://www.iplaysoft.com" title="异次元" xmlUrl="http://feed.iplaysoft.com/" type="rss" text="异次元"/>
 			<outline htmlUrl="http://www.playpcesor.com/" title="電腦玩物" xmlUrl="http://feeds.feedburner.com/playpc" type="rss" text="電腦玩物"/>
 		</outline>
-		<outline text="资讯新闻" title="资讯新闻">
+		<outline text="资讯新闻" title="资讯新闻">	
 			<outline htmlUrl="http://36kr.com" title="36氪" xmlUrl="http://www.36kr.com/feed" type="rss" text="36氪"/>
 				<outline htmlUrl="https://cn.engadget.com/rss.xml" title="Engadget" xmlUrl="http://cn.engadget.com/rss.xml" type="rss" text="Engadget"/>
 			<outline htmlUrl="http://www.ithome.com/" title="IT之家" xmlUrl="http://www.ithome.com/rss/" type="rss" text="IT之家"/>
 			<outline htmlUrl="http://livesino.net" title="LiveSino 中文版" xmlUrl="http://livesino.net/feed" type="rss" text="LiveSino 中文版"/>
 				<outline htmlUrl="https://buzzorange.com/techorange" title="TechOrange" xmlUrl="http://feeds.feedburner.com/techorange" type="rss" text="TechOrange"/>
-				<outline htmlUrl="http://www.techweb.com.cn/rss/hotnews.xml" title="TechWeb 每日热点" xmlUrl="http://www.techweb.com.cn/rss/hotnews.xml" type="rss" text="TechWeb 每日热点"/>
-				<outline htmlUrl="https://cn.technode.com" title="动点科技" xmlUrl="http://cn.technode.com/feed/" type="rss" text="动点科技"/>
 			<outline title="好奇心日报" xmlUrl="http://www.qdaily.com/feed.xml" type="rss" text="好奇心日报"/>
 			<outline htmlUrl="http://www.ixiqi.com" title="爱稀奇" xmlUrl="http://www.ixiqi.com/feed" type="rss" text="爱稀奇"/>
 			<outline htmlUrl="https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=" title="爱范儿" xmlUrl="http://www.ifanr.com/feed" type="rss" text="爱范儿"/>
 			<outline htmlUrl="http://www.tmtpost.com" title="钛媒体：引领未来商业与生活新知" xmlUrl="http://www.tmtpost.com/feed" type="rss" text="钛媒体：引领未来商业与生活新知"/>
-			<outline htmlUrl="https://www.leiphone.com" title="雷锋网" xmlUrl="https://www.leiphone.com/feed/categoryRss/name/sponsor" type="rss" text="雷锋网"/>
 			<outline htmlUrl="http://songshuhui.net" title="科学松鼠会" xmlUrl="http://songshuhui.net/feed" type="rss" text="科学松鼠会"/>
 		</outline>
 	</body>
