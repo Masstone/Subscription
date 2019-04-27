@@ -13,7 +13,6 @@
 			<outline htmlUrl="http://appadvice.com" title="AppAdvice.com Latest" xmlUrl="https://appadvice.com/feed" type="rss" text="AppAdvice.com Latest"/>
 			<outline title="Apple Newsroom" xmlUrl="https://www.apple.com/newsroom/rss-feed.rss" type="rss" text="Apple Newsroom"/>
 			<outline htmlUrl="//appleinsider.com" title="AppleInsider - Frontpage News" xmlUrl="http://appleinsider.com/rss/news/" type="rss" text="AppleInsider - Frontpage News"/>
-			<outline htmlUrl="https://thenextweb.com" title="Apps – The Next Web" xmlUrl="https://thenextweb.com/apps/feed/" type="rss" text="Apps – The Next Web"/>
 			<outline htmlUrl="http://www.appspy.com/rss" title="AppSpy.com | RSS | Latest Entries" xmlUrl="http://www.appspy.com/rss" type="rss" text="AppSpy.com | RSS | Latest Entries"/>
 			<outline htmlUrl="https://appstories.net" title="AppStories" xmlUrl="https://appstories.net/episodes/feed/" type="rss" text="AppStories"/>
 			<outline htmlUrl="http://checked.fm" title="Checked" xmlUrl="http://checked.fm/feed/podcast" type="rss" text="Checked"/>
@@ -33,9 +32,6 @@
 			<outline htmlUrl="https://shawnblanc.net" title="Shawn Blanc" xmlUrl="https://shawnblanc.net/feed/" type="rss" text="Shawn Blanc"/>
 			<outline htmlUrl="http://www.tapsmart.com" title="TapSmart" xmlUrl="http://www.tapsmart.com/feed/" type="rss" text="TapSmart"/>
 			<outline htmlUrl="https://toucharcade.com" title="TouchArcade" xmlUrl="https://toucharcade.com/feed/" type="rss" text="TouchArcade"/>
-			<outline title="好奇心日报" xmlUrl="http://www.qdaily.com/feed.xml" type="rss" text="好奇心日报"/>
-			<outline htmlUrl="https://www.appinn.com" title="小众软件" xmlUrl="http://feeds.feedburner.com/appinncom" type="rss" text="小众软件"/>
-			<outline htmlUrl="http://sspai.com" title="少数派" xmlUrl="https://sspai.com/feed" type="rss" text="少数派"/>
 		</outline>
 	</body>
 </opml>

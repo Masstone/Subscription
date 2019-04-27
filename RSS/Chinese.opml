@@ -14,22 +14,14 @@
 		</outline>
 		<outline text="资讯新闻" title="资讯新闻">
 			<outline htmlUrl="http://36kr.com" title="36氪" xmlUrl="http://www.36kr.com/feed" type="rss" text="36氪"/>
-			<outline htmlUrl="https://9to5mac.com" title="9to5Mac" xmlUrl="http://9to5mac.com/feed/" type="rss" text="9to5Mac"/>
 			<outline htmlUrl="https://applefans.today" title="APPLEFANS 蘋果迷" xmlUrl="https://applefans.today/feed/" type="rss" text="APPLEFANS 蘋果迷"/>
-			<outline htmlUrl="http://appleinsider.com" title="AppleInsider" xmlUrl="http://appleinsider.com.feedsportal.com/c/33975/f/616168/index.rss" type="rss" text="AppleInsider"/>
 			<outline htmlUrl="http://www.cnbeta.com/" title="cnBeta.COM" xmlUrl="http://rssdiy.com/u/2/cnbeta.xml" type="rss" text="cnBeta.COM"/>
-			<outline htmlUrl="https://daringfireball.net/" title="Daring Fireball" xmlUrl="http://daringfireball.net/index.xml" type="rss" text="Daring Fireball"/>
 			<outline htmlUrl="https://cn.engadget.com/rss.xml" title="Engadget" xmlUrl="http://cn.engadget.com/rss.xml" type="rss" text="Engadget"/>
 			<outline htmlUrl="http://www.ibm.com/developerworks/cn/" title="IBM developerWorks 中国 : 文档库" xmlUrl="http://www.ibm.com/developerworks/cn/rss/dwcn_dwtp.rss" type="rss" text="IBM developerWorks 中国 : 文档库"/>
 			<outline htmlUrl="http://www.iLounge.com" title="iLounge" xmlUrl="http://feeds.feedburner.com/ilounge" type="rss" text="iLounge"/>
-			<outline htmlUrl="https://www.imore.com/" title="iMore" xmlUrl="http://feeds.feedburner.com/theiphoneblog" type="rss" text="iMore"/>
-			<outline htmlUrl="https://www.inside.com.tw" title="Inside 硬塞的網路趨勢觀察" xmlUrl="http://www.inside.com.tw/feed" type="rss" text="Inside 硬塞的網路趨勢觀察"/>
-			<outline htmlUrl="http://tech.qq.com/" title="IT业界_腾讯科技" xmlUrl="http://www.feedsoso.com/feed/sqqwrj" type="rss" text="IT业界_腾讯科技"/>
+			<outline htmlUrl="https://www.inside.com.tw" title="Inside 硬塞的網路趨勢觀察" xmlUrl="http://www.inside.com.tw/feed/rss" type="rss" text="Inside 硬塞的網路趨勢觀察"/>
 			<outline htmlUrl="http://www.ithome.com/" title="IT之家" xmlUrl="http://www.ithome.com/rss/" type="rss" text="IT之家"/>
 			<outline htmlUrl="http://livesino.net" title="LiveSino 中文版" xmlUrl="http://livesino.net/feed" type="rss" text="LiveSino 中文版"/>
-			<outline htmlUrl="https://www.macrumors.com" title="MacRumors: Mac News and Rumors - Front Page" xmlUrl="http://www.macrumors.com/macrumors.xml" type="rss" text="MacRumors: Mac News and Rumors - Front Page"/>
-			<outline htmlUrl="https://www.macstories.net" title="MacStories" xmlUrl="http://feeds.feedburner.com/macstoriesnet" type="rss" text="MacStories"/>
-			<outline htmlUrl="https://www.macworld.com" title="Macworld" xmlUrl="http://rss.macworld.com/macworld/feeds/main" type="rss" text="Macworld"/>
 			<outline htmlUrl="https://www.pingwest.com" title="PingWest中文网" xmlUrl="http://www.pingwest.com/feed/" type="rss" text="PingWest中文网"/>
 			<outline htmlUrl="https://www.sixcolors.com/" title="Six Colors" xmlUrl="http://feedpress.me/sixcolors" type="rss" text="Six Colors"/>
 			<outline htmlUrl="https://www.solidot.org" title="Solidot" xmlUrl="http://feeds.feedburner.com/solidot" type="rss" text="Solidot"/>
@@ -37,29 +29,23 @@
 			<outline htmlUrl="http://technews.tw" title="TechNews 科技新報" xmlUrl="http://technews.tw/feed/" type="rss" text="TechNews 科技新報"/>
 			<outline htmlUrl="https://buzzorange.com/techorange" title="TechOrange" xmlUrl="http://feeds.feedburner.com/techorange" type="rss" text="TechOrange"/>
 			<outline htmlUrl="http://www.techweb.com.cn/rss/hotnews.xml" title="TechWeb 每日热点" xmlUrl="http://www.techweb.com.cn/rss/hotnews.xml" type="rss" text="TechWeb 每日热点"/>
-			<outline htmlUrl="https://telegram.how/" title="Telegram 中文支援站" xmlUrl="https://telegram.how/feed.xml" type="rss" text="Telegram 中文支援站"/>
 			<outline htmlUrl="https://gigaom.com" title="The Apple Blog" xmlUrl="http://theappleblog.com/feed/" type="rss" text="The Apple Blog"/>
 			<outline htmlUrl="https://thenextweb.com" title="The Next Web" xmlUrl="http://feeds2.feedburner.com/thenextweb" type="rss" text="The Next Web"/>
-			<outline htmlUrl="https://www.theverge.com/" title="The Verge" xmlUrl="http://www.theverge.com/rss/full.xml" type="rss" text="The Verge"/>
 			<outline htmlUrl="https://www.techbang.com/" title="T客邦" xmlUrl="http://feeds.feedburner.com/techbang" type="rss" text="T客邦"/>
 			<outline htmlUrl="https://www.v2ex.com/" title="V2EX - 创意" xmlUrl="https://www.v2ex.com/feed/tab/creative.xml" type="rss" text="V2EX - 创意"/>
 			<outline htmlUrl="https://pcrookie.com" title="㊣軟體玩家" xmlUrl="http://feeds.feedburner.com/quicktop" type="rss" text="㊣軟體玩家"/>
 			<outline htmlUrl="https://cn.technode.com" title="动点科技" xmlUrl="http://cn.technode.com/feed/" type="rss" text="动点科技"/>
 			<outline htmlUrl="http://www.apprcn.com" title="反斗软件" xmlUrl="http://www.apprcn.com/feed" type="rss" text="反斗软件"/>
 			<outline htmlUrl="https://www.feng.com/index.shtml" title="威锋网" xmlUrl="https://www.feng.com/rss.xml" type="rss" text="威锋网"/>
-			<outline htmlUrl="https://www.feng.com/index.shtml" title="威锋网-首页- 最新Rss订阅" xmlUrl="http://www.weiphone.com/rss.xml" type="rss" text="威锋网-首页- 最新Rss订阅"/>
 			<outline htmlUrl="https://www.appinn.com" title="小众软件" xmlUrl="http://feed.appinn.com/" type="rss" text="小众软件"/>
-			<outline htmlUrl="http://sspai.com" title="少数派" xmlUrl="http://sspai.com/feed" type="rss" text="少数派"/>
 			<outline htmlUrl="https://www.iplaysoft.com" title="异次元" xmlUrl="http://feed.iplaysoft.com/" type="rss" text="异次元"/>
 			<outline htmlUrl="https://www.iphonetaiwan.org/" title="愛瘋日報" xmlUrl="http://www.iphonetaiwan.org/feeds/posts/default" type="rss" text="愛瘋日報"/>
-			<outline htmlUrl="https://feedex.net/feed/rss.sina.com.cn/tech/rollnews.xml" title="新浪科技" xmlUrl="http://ftr.fivefilters.org/makefulltextfeed.php?url=https%3A%2F%2Ffeedex.net%2Ffeed%2Frss.sina.com.cn%2Ftech%2Frollnews.xml&amp;max=3" type="rss" text="新浪科技"/>
+			<outline title="好奇心日报" xmlUrl="http://www.qdaily.com/feed.xml" type="rss" text="好奇心日报"/>
 			<outline htmlUrl="http://main_test.geekpark.net/rss.rss" title="极客公园" xmlUrl="http://feeds.geekpark.net/" type="rss" text="极客公园"/>
 			<outline htmlUrl="http://www.ixiqi.com" title="爱稀奇" xmlUrl="http://www.ixiqi.com/feed" type="rss" text="爱稀奇"/>
 			<outline htmlUrl="https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=" title="爱范儿" xmlUrl="http://www.ifanr.com/feed" type="rss" text="爱范儿"/>
 			<outline htmlUrl="http://tech.qq.com" title="腾讯科技" xmlUrl="http://n.rss.qq.com/rss/tech_rss.php" type="rss" text="腾讯科技"/>
-			<outline htmlUrl="https://sodue.com" title="花花世界" xmlUrl="https://sodue.com/feed" type="rss" text="花花世界"/>
 			<outline htmlUrl="https://news.google.com/news/search/section/q/%E5%BA%93%E5%85%8B%20%E8%8B%B9%E6%9E%9C/%E5%BA%93%E5%85%8B%20%E8%8B%B9%E6%9E%9C?ned=us&amp;hl=en&amp;gl=US" title="苹果 Google News" xmlUrl="https://news.google.com/news/rss/search/section/q/%E5%BA%93%E5%85%8B%20%E8%8B%B9%E6%9E%9C/%E5%BA%93%E5%85%8B%20%E8%8B%B9%E6%9E%9C?hl=en&amp;gl=US" type="rss" text="苹果 Google News"/>
-			<outline htmlUrl="http://tech.sina.com.cn/apple/index.shtml" title="苹果汇-新浪科技" xmlUrl="http://rss.sina.com.cn/tech/apple/news.xml" type="rss" text="苹果汇-新浪科技"/>
 			<outline htmlUrl="https://briian.com" title="重灌狂人" xmlUrl="http://feeds.feedburner.com/briian" type="rss" text="重灌狂人"/>
 			<outline htmlUrl="http://www.tmtpost.com" title="钛媒体：引领未来商业与生活新知" xmlUrl="http://www.tmtpost.com/feed" type="rss" text="钛媒体：引领未来商业与生活新知"/>
 			<outline htmlUrl="https://www.leiphone.com" title="雷锋网" xmlUrl="https://www.leiphone.com/feed/categoryRss/name/sponsor" type="rss" text="雷锋网"/>
