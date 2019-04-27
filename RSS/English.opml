@@ -32,6 +32,9 @@
 			<outline htmlUrl="https://shawnblanc.net" title="Shawn Blanc" xmlUrl="https://shawnblanc.net/feed/" type="rss" text="Shawn Blanc"/>
 			<outline htmlUrl="http://www.tapsmart.com" title="TapSmart" xmlUrl="http://www.tapsmart.com/feed/" type="rss" text="TapSmart"/>
 			<outline htmlUrl="https://toucharcade.com" title="TouchArcade" xmlUrl="https://toucharcade.com/feed/" type="rss" text="TouchArcade"/>
+			<outline htmlUrl="http://www.iLounge.com" title="iLounge" xmlUrl="http://feeds.feedburner.com/ilounge" type="rss" text="iLounge"/>
+			<outline htmlUrl="https://gigaom.com" title="The Apple Blog" xmlUrl="http://theappleblog.com/feed/" type="rss" text="The Apple Blog"/>
+			<outline htmlUrl="https://thenextweb.com" title="The Next Web" xmlUrl="http://feeds2.feedburner.com/thenextweb" type="rss" text="The Next Web"/>
 		</outline>
 	</body>
 </opml>
