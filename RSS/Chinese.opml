@@ -19,7 +19,7 @@
 			<outline htmlUrl="https://cn.engadget.com/rss.xml" title="Engadget" xmlUrl="http://cn.engadget.com/rss.xml" type="rss" text="Engadget"/>
 			<outline htmlUrl="http://www.ibm.com/developerworks/cn/" title="IBM developerWorks 中国 : 文档库" xmlUrl="http://www.ibm.com/developerworks/cn/rss/dwcn_dwtp.rss" type="rss" text="IBM developerWorks 中国 : 文档库"/>
 			<outline htmlUrl="http://www.iLounge.com" title="iLounge" xmlUrl="http://feeds.feedburner.com/ilounge" type="rss" text="iLounge"/>
-			<outline htmlUrl="https://www.inside.com.tw" title="Inside 硬塞的網路趨勢觀察" xmlUrl="http://www.inside.com.tw/feed/rss" type="rss" text="Inside 硬塞的網路趨勢觀察"/>
+			<outline htmlUrl="https://www.inside.com.tw" title="Inside 硬塞的網路趨勢觀察" xmlUrl="https://www.inside.com.tw/feed/rss" type="rss" text="Inside 硬塞的網路趨勢觀察"/>
 			<outline htmlUrl="http://www.ithome.com/" title="IT之家" xmlUrl="http://www.ithome.com/rss/" type="rss" text="IT之家"/>
 			<outline htmlUrl="http://livesino.net" title="LiveSino 中文版" xmlUrl="http://livesino.net/feed" type="rss" text="LiveSino 中文版"/>
 			<outline htmlUrl="https://www.pingwest.com" title="PingWest中文网" xmlUrl="http://www.pingwest.com/feed/" type="rss" text="PingWest中文网"/>
